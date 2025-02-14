@@ -1,0 +1,3 @@
+from : ubuntu
+maintainer : docker
+run : yum install java
